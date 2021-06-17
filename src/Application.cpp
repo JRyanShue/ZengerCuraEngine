@@ -154,6 +154,8 @@ void Application::printLicense() const
     logAlways("\n");
     logAlways("You should have received a copy of the GNU Affero General Public License\n");
     logAlways("along with this program.  If not, see <http://www.gnu.org/licenses/>.\n");
+
+    logAlways("And finally, Ryan Shue was here.\n");
 }
 
 void Application::slice()
